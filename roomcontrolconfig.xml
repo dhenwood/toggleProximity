@@ -1,0 +1,23 @@
+﻿<Extensions>
+  <Version>1.5</Version>
+  <Panel>
+    <PanelId>panel_1</PanelId>
+    <Type>Statusbar</Type>
+    <Icon>Proximity</Icon>
+    <Order>1</Order>
+    <Color>#C2C2C2</Color>
+    <Name>Settings</Name>
+    <Page>
+      <Name>Settings</Name>
+      <Row>
+        <Name>Toggle Proximity</Name>
+        <Widget>
+          <WidgetId>toggleButton</WidgetId>
+          <Type>ToggleButton</Type>
+          <Options>size=1</Options>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
